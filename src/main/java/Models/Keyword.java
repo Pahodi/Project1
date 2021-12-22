@@ -13,7 +13,7 @@ import java.util.Objects;
 @AllArgsConstructor
 public class Keyword {
     protected int idWord;
-    protected int priorityKeyword;
+    protected int queueKeyword;
     protected String Keyword;
     protected int idScore;
 }

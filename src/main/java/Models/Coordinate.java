@@ -14,7 +14,7 @@ import java.util.Objects;
 public class Coordinate {
     protected int idCoordinate;
     protected int idQuest;
-    protected int priorityCoordinate;
-    protected int coordinate;
+    protected int queueCoordinate;
+    protected String coordinate;
     protected int idWord;
 }
